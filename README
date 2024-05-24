@@ -9,7 +9,7 @@ install R
 git clone git@github.com:SRHgroup/Barracoda-1.8.git
 
 # Modify paths 
-Modify within the barracoda-1.8.pl script
+Modify paths within the barracoda-1.8.pl script
 
 # test Barracoda  
 perl barracoda-1.8.pl -h
